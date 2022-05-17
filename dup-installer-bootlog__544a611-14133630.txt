@@ -1,0 +1,8 @@
+[May 14 03:25:42] 
+[May 14 03:25:42] [PHP ERR][WARN] MSG:filesize(): stat failed for 20211214_theenglishlabacademiadeing_544a61140a74d80b7785_20211214133630_archive.zip [CODE:2|FILE:C:\wamp64\www\demoturnos\installer.php|LINE:141]
+[May 14 03:25:42] ==DUPLICATOR INSTALLER BOOTSTRAP v3.8.6.2==
+[May 14 03:25:42] ----------------------------------------------------
+[May 14 03:25:42] Installer bootstrap start
+[May 14 03:25:42] Using archive C:/wamp64/www/demoturnos/20211214_theenglishlabacademiadeing_544a61140a74d80b7785_20211214133630_archive.zip
+[May 14 03:25:42] [ERROR] Archive file not found!
+[May 14 03:25:42] [PHP ERR][WARN] MSG:filesize(): stat failed for 20211214_theenglishlabacademiadeing_544a61140a74d80b7785_20211214133630_archive.zip [CODE:2|FILE:C:\wamp64\www\demoturnos\installer.php|LINE:141]
